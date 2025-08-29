@@ -35,4 +35,4 @@ Coba Uranus Space secara langsung di sini:
 ### Langkah Instalasi
 1. Clone repositori:
 ```bash
-git clone https://github.com/uranusfazry/uranus-space.git
+git clone https://github.com/uranusfazry/uranuspace.git
